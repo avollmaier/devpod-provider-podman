@@ -5,5 +5,5 @@ A provider to launch [DevPod](https://devpod.sh) workspaces on Podman.
 ## Getting Started
 
 ```shell
-devpod provider add https://github.com/ThomasVitale/devpod-provider-podman/blob/main/provider.yml
+devpod provider add https://github.com/avollmaier/devpod-provider-podman/blob/main/provider.yml
 ```
